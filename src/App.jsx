@@ -6,7 +6,7 @@ function App() {
   const routes = [
     {
       id: 'home',
-      element: <iframe src="https://property-report.corelogic.com.au/boq"></iframe>,
+      element: <iframe src="https://property-report.corelogic.com.au/ceshllg"></iframe>,
       path: '/',
     },
     {
